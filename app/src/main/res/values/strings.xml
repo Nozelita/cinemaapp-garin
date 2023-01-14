@@ -1,0 +1,18 @@
+<resources>
+
+    <string name="app_name">Cinema App Garin</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="action_popular">Popular</string>
+    <string name="action_now_playing">Now Playing</string>
+
+    <string name="intent_id">INTENT_ID</string>
+    <string name="intent_title">INTENT_TITLE</string>
+    <string name="intent_description">INTENT_DESCRIPTION</string>
+    <string name="intent_image">INTENT_IMAGE</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="splachscreen">SPLACHSCREEN</string>
+    <string name="todo">TODO</string>
+</resources>
